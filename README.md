@@ -20,3 +20,7 @@ bigger code block
 ```
 ```html
 ```
+```diff
++ non error
+- error
+```

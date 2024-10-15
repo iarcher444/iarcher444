@@ -10,7 +10,7 @@ I am currently a student at the University of North Alabama, studying for my bac
 * 🖥️  See my portfolio at [My Github Profile](http://github.com/iarcher444)
 * ✉️  You can contact me at [iarcher@una.edu](mailto:iarcher@una.edu)
 * 🚀  I'm currently working on [dev-edward-project](http://github.com/iarcher444/iarcher444)
-* 🧠  I'm learning Html, Css, and Javascript
+* 🧠  I'm learning Html, CSS, and Javascript
 * 🤝  I'm open to collaborating on Anything that will add to my learning experience.
 * ⚡  Fun fact: I have three cats named Kuro, Saki, and Squirt. Two of those cats, Kuro and Saki, are named after a popular character from the show 'Bleach', Ichigo Kurosaki.
 
